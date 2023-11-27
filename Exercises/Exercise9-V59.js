@@ -1,6 +1,6 @@
-let num1 = 10;
-let num2 = 11;
-let value = "*";
+let num1 = prompt("Enter the first number");
+let value = prompt("Enter the operation");
+let num2 = prompt("Enter the second number");
 
 let random = Math.random();
 
